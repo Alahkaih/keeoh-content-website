@@ -1,0 +1,20 @@
+{
+    "razeStyle": {
+        "ButtonColor": "Orange",
+        "PlaylistLink": "https://www.youtube.com/watch?v=KFHXjsJilQo&list=PLOnwKzxw5uFhftYjQvErJAh-rsicvvFmD",
+        "AgentName": "Raze",
+        "ImageName": "Raze.jpg"
+    },
+    "killjoyStyle": {
+        "ButtonColor": "Orange",
+        "PlaylistLink": "https://www.youtube.com/watch?v=KFHXjsJilQo&list=PLOnwKzxw5uFhftYjQvErJAh-rsicvvFmD",
+        "AgentName": "Raze"
+        
+    },
+    "fadeStyle": {
+        "ButtonColor": "Purple",
+        "PlaylistLink": "https://www.youtube.com/watch?v=Qk6JXWg1f7o&list=PLOnwKzxw5uFjlKcuiZMujcoEzQK55yw_M",
+        "AgentName": "Fade",
+        "ImageName": "Fade.webp"
+    }
+}
