@@ -5,17 +5,24 @@ interface Props {
   ButtonColor: string,
   PlaylistLink: string,
   AgentName: string,
-  ImageName: string
+  ImageName: string,
+  FullVideoLink?: string
 }
 
-const AgentSpeedrun = (props: any) => {
+const AgentSpeedrun = (props: Props) => {
   return (
     <HeaderStyle {...props}>
       <h1>Agent:</h1>
       <h2>{props.AgentName}</h2>
-      <a href={props.PlaylistLink}>
-        <button className='btn'>Playlist</button>
-      </a>
+      <div>
+        <a href={props.PlaylistLink}>
+          <button className='btn'>Playlist</button>
+        </a>
+
+        {props.FullVideoLink && <a href={props.FullVideoLink}>
+          <button className='btn'>Full Video</button>
+        </a>}
+      </div>
       <img src={props.ImageName} alt="" />
     </HeaderStyle>
   )
@@ -34,7 +41,7 @@ const HeaderStyle = styled.header<HeaderProps>`
   width: 20vw;
   height: 10vh;
   margin: 0 3rem;
-  > a > button{
+   a > button{
     background-color: ${(props: any) => props.ButtonColor || 'red'};
   }
 

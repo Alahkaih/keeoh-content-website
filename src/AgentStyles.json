@@ -3,7 +3,8 @@
         "ButtonColor": "Orange",
         "PlaylistLink": "https://www.youtube.com/watch?v=KFHXjsJilQo&list=PLOnwKzxw5uFhftYjQvErJAh-rsicvvFmD",
         "AgentName": "Raze",
-        "ImageName": "Raze.jpg"
+        "ImageName": "Raze.jpg",
+        "FullVideoLink": "https://www.youtube.com/watch?v=KFHXjsJilQo&list=PLOnwKzxw5uFhftYjQvErJAh-rsicvvFmD" 
     },
     "killjoyStyle": {
         "ButtonColor": "Orange",
