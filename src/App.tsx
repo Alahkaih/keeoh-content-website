@@ -12,36 +12,25 @@ export default function App() {
   return (
     <div>
       <SpeedrunContainer>
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.fadeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.fadeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.fadeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.fadeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.fadeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.fadeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.fadeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.fadeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.fadeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.fadeStyle} />
-        <AgentSpeedrun {...AgentStyles.fadeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.fadeStyle} />
-        <AgentSpeedrun {...AgentStyles.razeStyle} />
-        <AgentSpeedrun {...AgentStyles.fadeStyle} />
+        <AgentSpeedrun {...AgentStyles.raze} />
+        <AgentSpeedrun {...AgentStyles.fade} />
+        <AgentSpeedrun {...AgentStyles.brimstone} />
+        <AgentSpeedrun {...AgentStyles.phoenix} />
+        <AgentSpeedrun {...AgentStyles.sage} />
+        <AgentSpeedrun {...AgentStyles.sova} />
+        <AgentSpeedrun {...AgentStyles.viper} />
+        <AgentSpeedrun {...AgentStyles.cypher} />
+        <AgentSpeedrun {...AgentStyles.reyna} />
+        <AgentSpeedrun {...AgentStyles.killjoy} />
+        <AgentSpeedrun {...AgentStyles.breach} />
+        <AgentSpeedrun {...AgentStyles.omen} />
+        <AgentSpeedrun {...AgentStyles.jett} />
+        <AgentSpeedrun {...AgentStyles.skye} />
+        <AgentSpeedrun {...AgentStyles.yoru} />
+        <AgentSpeedrun {...AgentStyles.astra} />
+        <AgentSpeedrun {...AgentStyles.kayo} />
+        <AgentSpeedrun {...AgentStyles.chamber} />
+        <AgentSpeedrun {...AgentStyles.neon} />
       </SpeedrunContainer>
     </div>
   );

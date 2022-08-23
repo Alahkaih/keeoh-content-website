@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 interface Props {
   ButtonColor: string,
-  PlaylistLink: string,
+  PlaylistLink?: string,
   AgentName: string,
   ImageName: string,
   FullVideoLink?: string
@@ -15,9 +15,9 @@ const AgentSpeedrun = (props: Props) => {
       <h1>Agent:</h1>
       <h2>{props.AgentName}</h2>
       <div>
-        <a href={props.PlaylistLink}>
+        {props.PlaylistLink && <a href={props.PlaylistLink}>
           <button className='btn'>Playlist</button>
-        </a>
+        </a>}
 
         {props.FullVideoLink && <a href={props.FullVideoLink}>
           <button className='btn'>Full Video</button>

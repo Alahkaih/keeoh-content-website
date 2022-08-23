@@ -1,21 +1,110 @@
 {
-    "razeStyle": {
+    "raze": {
         "ButtonColor": "Orange",
         "PlaylistLink": "https://www.youtube.com/watch?v=KFHXjsJilQo&list=PLOnwKzxw5uFhftYjQvErJAh-rsicvvFmD",
         "AgentName": "Raze",
         "ImageName": "Raze.jpg",
-        "FullVideoLink": "https://www.youtube.com/watch?v=KFHXjsJilQo&list=PLOnwKzxw5uFhftYjQvErJAh-rsicvvFmD" 
+        "FullVideoLink": "https://www.youtube.com/watch?v=KFHXjsJilQo&list=PLOnwKzxw5uFhftYjQvErJAh-rsicvvFmD"
     },
-    "killjoyStyle": {
-        "ButtonColor": "Orange",
-        "PlaylistLink": "https://www.youtube.com/watch?v=KFHXjsJilQo&list=PLOnwKzxw5uFhftYjQvErJAh-rsicvvFmD",
-        "AgentName": "Raze"
-        
-    },
-    "fadeStyle": {
+    "fade": {
         "ButtonColor": "Purple",
         "PlaylistLink": "https://www.youtube.com/watch?v=Qk6JXWg1f7o&list=PLOnwKzxw5uFjlKcuiZMujcoEzQK55yw_M",
         "AgentName": "Fade",
+        "ImageName": "Fade.webp"
+    },
+    "killjoy": {
+        "ButtonColor": "Yellow",
+        "AgentName": "Killjoy",
+        "ImageName": "Fade.webp"
+    },
+    "brimstone": {
+        "ButtonColor": "Brown",
+        "AgentName": "Brimstone",
+        "ImageName": "Fade.webp"
+    },
+    "phoenix": {
+        "ButtonColor": "Red",
+        "AgentName": "Phoenix",
+        "ImageName": "Fade.webp"
+    },
+    "sage": {
+        "ButtonColor": "Cyan",
+        "AgentName": "Sage",
+        "ImageName": "Fade.webp"
+    },
+    "sova": {
+        "ButtonColor": "Blue",
+        "AgentName": "Sova",
+        "ImageName": "Fade.webp"
+    },
+    "viper": {
+        "ButtonColor": "Green",
+        "PlaylistLink": "https://www.youtube.com/watch?v=-0zf9mYqebQ&list=PLOnwKzxw5uFjVB98NNLF7kZ9Qas2mJyCW",
+        "AgentName": "Viper",
+        "ImageName": "Fade.webp"
+    },
+    "cypher": {
+        "ButtonColor": "Grey",
+        "AgentName": "Cypher",
+        "ImageName": "Fade.webp"
+    },
+    "reyna": {
+        "ButtonColor": "Purple",
+        "PlaylistLink": "https://www.youtube.com/watch?v=spmuqk_qT3Q&list=PLOnwKzxw5uFj-HEe1OkPBvXq5AxsrarE7",
+        "AgentName": "Reyna",
+        "ImageName": "Fade.webp"
+    },
+    "breach": {
+        "ButtonColor": "Brown",
+        "PlaylistLink": "https://www.youtube.com/watch?v=XZLuvdxdsQE&list=PLOnwKzxw5uFjeFDixmEKmyRH_0JyMcvxT",
+        "AgentName": "Breach",
+        "ImageName": "Fade.webp"
+    },
+    "omen": {
+        "ButtonColor": "Purple",
+        "AgentName": "Omen",
+        "ImageName": "Fade.webp"
+    },
+    "jett": {
+        "ButtonColor": "Silver",
+        "PlaylistLink": "https://www.youtube.com/watch?v=eQ6ztKdg2wg&list=PLOnwKzxw5uFi2QfUfdQ_EzpLHamDJPZUP",
+        "AgentName": "Jett",
+        "ImageName": "Fade.webp"
+    },
+    "skye": {
+        "ButtonColor": "Green",
+        "PlaylistLink": "https://www.youtube.com/watch?v=NwtD_Av7CEA&list=PLOnwKzxw5uFjdxQc26Ya168DBB2Kyd4PH",
+        "AgentName": "Skye",
+        "ImageName": "Fade.webp"
+    },
+    "yoru": {
+        "ButtonColor": "Blue",
+        "PlaylistLink": "https://www.youtube.com/watch?v=f5G_vgqjDo8&list=PLOnwKzxw5uFjch1GfRcWGfTsEQVfI96RB",
+        "AgentName": "Yoru",
+        "ImageName": "Fade.webp"
+    },
+    "astra": {
+        "ButtonColor": "Purple",
+        "PlaylistLink": "https://www.youtube.com/watch?v=sy3pjQ1jxe8&list=PLOnwKzxw5uFhVogRMMWYJ_aQd-03vadPa",
+        "AgentName": "Astra",
+        "ImageName": "Fade.webp"
+    },
+    "kayo": {
+        "ButtonColor": "Blue",
+        "PlaylistLink": "https://www.youtube.com/watch?v=6hyJUYTbcpg&list=PLOnwKzxw5uFhulVuc_9bl6cABWmDH_T0v",
+        "AgentName": "Kay/O",
+        "ImageName": "Fade.webp"
+    },
+    "chamber": {
+        "ButtonColor": "Gold",
+        "PlaylistLink": "https://www.youtube.com/watch?v=L2gkVS4MAME&list=PLOnwKzxw5uFikm4HnkrAaVYgmX-wFzGiO",
+        "AgentName": "Chamber",
+        "ImageName": "Fade.webp"
+    },
+    "neon": {
+        "ButtonColor": "Blue",
+        "PlaylistLink": "https://www.youtube.com/watch?v=RSundmtkep0&list=PLOnwKzxw5uFg3hzFZqp2jFCTQce87uAc4",
+        "AgentName": "Neon",
         "ImageName": "Fade.webp"
     }
 }
